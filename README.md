@@ -1,9 +1,24 @@
-# Hi there, I'm Shaheer Arshad 👋
+<p align="center">
+  <img src="assets/banner.jpg" alt="Batman Emerging From Light" width="100%" />
+</p>
 
-### **Senior Data Engineer | AI/ML & GenAI | Backend Systems Architect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer%20Arshad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaheer-arshad-)
-[![Email](https://img.shields.io/badge/Email-shaheerarshad5577%40gmail.com-red?style=flat&logo=gmail)](mailto:shaheerarshad5577@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-lightgrey?style=flat&logo=googlemaps)]()
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shaheer+Arshad+%F0%9F%A6%87;Senior+Data+Engineer;AI%2FML+%26+GenAI+Architect;Building+Production-Grade+Platforms" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <b>Senior Data Engineer | AI/ML & GenAI | Backend Systems Architect</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaheer-arshad-"><img src="https://img.shields.io/badge/LinkedIn-Shaheer%20Arshad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shaheerarshad5577@gmail.com"><img src="https://img.shields.io/badge/Email-shaheerarshad5577%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-24292E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <i>"It's not who I am underneath, but what I do that defines me."</i> — <b>Engineering scalable data platforms and GenAI systems in the shadows of production complexity.</b>
+</p>
 
 ---
 
