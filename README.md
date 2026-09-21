@@ -78,16 +78,6 @@ Specialized in:
 
 ---
 
-## 📈 Engineering Activity & Contributions
-> *Private contributions are synced and displayed on the GitHub contribution graph below.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byteflux-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Shaheer Arshad's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteflux-dev&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Connect With Me
 - **LinkedIn**: [linkedin.com/in/shaheer-arshad-](https://www.linkedin.com/in/shaheer-arshad-)
 - **Email**: [shaheerarshad5577@gmail.com](mailto:shaheerarshad5577@gmail.com)
